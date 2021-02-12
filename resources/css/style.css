@@ -1,0 +1,48 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	background-color: black;
+}
+main {
+	margin: auto;
+	text-align: center;
+	padding: 50px;
+}
+h1 {
+	font-weight: 400;
+	font-size: 50px;
+}
+.comming-soon a {
+	display: inline-block;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	color: aquamarine;
+	font-size: 16px;
+}
+h2 {
+	padding: 50px 0;
+	font-weight: 300;
+	font-size: 42px;
+}
+.remembers {
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-size: 21px;
+	color: gray;
+}
+.phone {
+	padding-top: 25px;
+    padding-bottom: 10px;
+}
+footer {
+	text-align: right;
+}
+footer p {
+	color: gray;
+	padding: 25px;
+}
